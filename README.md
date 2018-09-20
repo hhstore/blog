@@ -1,8 +1,11 @@
 # blog
 
 > My Tech Blog Repo, Please check [issues list](https://github.com/hhstore/blog/issues).
+>
 > Focus on: `Python`, `Golang`, `Docker`, `Kubernetes(k8s)`, `Blockchain(BTC/ETH)`, etc.
+>
 > blog catalogue: https://github.com/hhstore/blog/issues
+>
 > old blog archive: http://www.v2coder.com/
 
 
