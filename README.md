@@ -1,9 +1,9 @@
 # blog
 
-- My Tech Blog Repo, Please check [issues list](https://github.com/hhstore/blog/issues).
-- Focus on: `Python`, `Golang`, `Docker`, `Kubernetes(k8s)`, `Blockchain(BTC/ETH)`, etc.
-- blog catalogue: https://github.com/hhstore/blog/issues
-- old blog archive: http://www.v2coder.com/
+> My Tech Blog Repo, Please check [issues list](https://github.com/hhstore/blog/issues).
+> Focus on: `Python`, `Golang`, `Docker`, `Kubernetes(k8s)`, `Blockchain(BTC/ETH)`, etc.
+> blog catalogue: https://github.com/hhstore/blog/issues
+> old blog archive: http://www.v2coder.com/
 
 
 ## Contents
@@ -18,7 +18,7 @@
 
 
 
-### `Python3.5+`:
+### Python3.5+:
 
 #### Web Framework:
 
@@ -30,27 +30,27 @@
 #### Libs:
 
 
-### `Golang`:
+### Golang:
 
 - [Golang Topic](https://github.com/hhstore/blog/labels/Golang)
 - [Micro Service](https://github.com/hhstore/blog/labels/MicroService)
 
-### `RPC`:
+### RPC:
 
 - [RPC Topic](https://github.com/hhstore/blog/labels/RPC)
 - [gRPC Topic](https://github.com/hhstore/blog/labels/gRPC)
 
-### `MQ`:
+### MQ:
 
 - [Kafka Topic](https://github.com/hhstore/blog/labels/MQ-Kafka)
 - [RabbitMQ Topic](https://github.com/hhstore/blog/labels/MQ-RabbitMQ)
 
-### `Docker/Kubernetes`:
+### Docker/Kubernetes:
 
 - [Docker Topic](https://github.com/hhstore/blog/labels/Docker)
 
 
-### `Blockchain`:
+### Blockchain:
 
 
 #### BTC:
