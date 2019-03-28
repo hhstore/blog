@@ -1,5 +1,7 @@
 # blog
 
+[![Join the chat at https://gitter.im/hhstore/blog](https://badges.gitter.im/hhstore/blog.svg)](https://gitter.im/hhstore/blog?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > My Tech Blog Repo, Please check [issues list](https://github.com/hhstore/blog/issues).
 >
 > Focus on: `Python`, `Golang`, `Docker`, `Kubernetes(k8s)`, `Blockchain(BTC/ETH)`, etc.
