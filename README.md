@@ -3,7 +3,7 @@
 
 ## 🔥️ Intro
 
-- ✅ Focus on: [Mojo](https://github.com/hhstore/blog/labels/Mojo), [Rust](https://github.com/hhstore/blog/labels/Rust), [Flutter](https://github.com/hhstore/blog/labels/Flutter), [Golang](https://github.com/hhstore/blog/labels/Golang), [Python](https://github.com/hhstore/blog/labels/Python), [Zig](https://github.com/hhstore/blog/labels/Zig), [Kotlin](https://github.com/hhstore/blog/labels/Kotlin), `Docker`, `Kubernetes(K8S)`, `Blockchain(BTC/ETH)`, etc.
+- ✅ Focus on: [Mojo](https://github.com/hhstore/blog/labels/Mojo), [Rust](https://github.com/hhstore/blog/labels/Rust), [Flutter](https://github.com/hhstore/blog/labels/Flutter), [Golang](https://github.com/hhstore/blog/labels/Golang), [Python](https://github.com/hhstore/blog/labels/Python), [Zig](https://github.com/hhstore/blog/labels/Zig), [Kotlin](https://github.com/hhstore/blog/labels/Kotlin), [VueJS](https://github.com/hhstore/blog/labels/VueJS), , `Docker`, `Kubernetes(K8S)`, `Blockchain(BTC/ETH)`, etc.
 
 
 | Blog | Link | Desc | 
